@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "km6YazC8anQ=",
+  "success": true,
+  "projectFilePath": "/home/joaor/Programação/Estudos/dotNet/Estudos/Desafio Estacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/DesafioFundamentos.csproj",
+  "expectedPackageFiles": [
+    "/home/joaor/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

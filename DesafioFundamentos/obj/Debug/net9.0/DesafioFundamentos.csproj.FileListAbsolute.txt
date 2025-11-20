@@ -1,0 +1,15 @@
+/home/joaor/Programação/Estudos/dotNet/Estudos/Desafio Estacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net9.0/DesafioFundamentos
+/home/joaor/Programação/Estudos/dotNet/Estudos/Desafio Estacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net9.0/DesafioFundamentos.deps.json
+/home/joaor/Programação/Estudos/dotNet/Estudos/Desafio Estacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net9.0/DesafioFundamentos.runtimeconfig.json
+/home/joaor/Programação/Estudos/dotNet/Estudos/Desafio Estacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net9.0/DesafioFundamentos.dll
+/home/joaor/Programação/Estudos/dotNet/Estudos/Desafio Estacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net9.0/DesafioFundamentos.pdb
+/home/joaor/Programação/Estudos/dotNet/Estudos/Desafio Estacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net9.0/DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaor/Programação/Estudos/dotNet/Estudos/Desafio Estacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net9.0/DesafioFundamentos.AssemblyInfoInputs.cache
+/home/joaor/Programação/Estudos/dotNet/Estudos/Desafio Estacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net9.0/DesafioFundamentos.AssemblyInfo.cs
+/home/joaor/Programação/Estudos/dotNet/Estudos/Desafio Estacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net9.0/DesafioFundamentos.csproj.CoreCompileInputs.cache
+/home/joaor/Programação/Estudos/dotNet/Estudos/Desafio Estacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net9.0/DesafioFundamentos.sourcelink.json
+/home/joaor/Programação/Estudos/dotNet/Estudos/Desafio Estacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net9.0/DesafioFundamentos.dll
+/home/joaor/Programação/Estudos/dotNet/Estudos/Desafio Estacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net9.0/refint/DesafioFundamentos.dll
+/home/joaor/Programação/Estudos/dotNet/Estudos/Desafio Estacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net9.0/DesafioFundamentos.pdb
+/home/joaor/Programação/Estudos/dotNet/Estudos/Desafio Estacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net9.0/DesafioFundamentos.genruntimeconfig.cache
+/home/joaor/Programação/Estudos/dotNet/Estudos/Desafio Estacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net9.0/ref/DesafioFundamentos.dll
